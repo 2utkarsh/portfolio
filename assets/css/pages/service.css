@@ -63,7 +63,9 @@ button {
   color: inherit;
   transition-duration: 300ms;
 }
-
+iframe {
+  max-width: 100%;
+}
 a,
 button,
 img,
