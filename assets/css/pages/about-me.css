@@ -100,6 +100,9 @@ input[type=submit] {
 img {
   max-width: 100%;
 }
+iframe {
+  max-width: 100%;
+}
 
 input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
